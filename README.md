@@ -7,6 +7,9 @@ In this practical application assignment, the goal is to compare the performance
 
 To predict whether a customer will subscribe to a term deposit, enabling the bank to optimize future marketing campaigns, reduce outreach costs, and improve conversion rates.
 
+### Jupiter file
+[bank_marketing_classifier_cmp.ipynb](bank_marketing_classifier_cmp.ipynb)
+
 ### Dataset Overview
 
 Source: UCI Bank Marketing Dataset
